@@ -1,0 +1,362 @@
+[
+{
+"category": "Hometown",
+"chinese": "我的家乡有几个我最喜欢的地方。",
+"english": "My hometown has several places I love most.",
+"type": "sentence"
+},
+{
+"category": "Work & Studies",
+"chinese": "我现在在家远程工作。",
+"english": "I currently work from home.",
+"type": "sentence"
+},
+{
+"category": "Work & Studies",
+"chinese": "我选择这份工作是因为时间灵活且能发挥专长。",
+"english": "I chose this job because it’s flexible and uses my strengths.",
+"type": "sentence"
+},
+{
+"category": "Work & Studies",
+"chinese": "我最喜欢工作中的成就感和成长。",
+"english": "I enjoy the sense of achievement and growth at work.",
+"type": "sentence"
+},
+{
+"category": "Work & Studies",
+"chinese": "我觉得独自专注能提高效率，但合作能激发创意。",
+"english": "Working alone boosts efficiency, but collaboration sparks creativity.",
+"type": "sentence"
+},
+{
+"category": "Work & Studies",
+"chinese": "我的工作经历已经改变了我的生活方式和目标。",
+"english": "My work experience has changed my lifestyle and goals.",
+"type": "sentence"
+},
+{
+"category": "Future Plans",
+"chinese": "将来我想做一份更具影响力的工作。",
+"english": "In the future I want a role with greater impact.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Music",
+"chinese": "我空闲时常听乡村音乐，尤其是泰勒·斯威夫特。",
+"english": "In my free time I often listen to country music, especially Taylor Swift.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Reading",
+"chinese": "我年轻时常读小说和报纸，现在更常读电子书。",
+"english": "I used to read novels and newspapers; now I read e-books more often.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Reading",
+"chinese": "我偏爱侦探和恐怖题材的作品。",
+"english": "I gravitate toward detective and horror genres.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Reading",
+"chinese": "阅读恐怖故事让我肾上腺素飙升并保持兴奋。",
+"english": "Reading horror stories gives me an adrenaline rush and keeps me alert.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Outdoor",
+"chinese": "我更喜欢户外活动，比如远足和游乐园。",
+"english": "I prefer outdoor activities like hiking and visiting amusement parks.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Outdoor",
+"chinese": "山林的氛围让我平静并焕然一新。",
+"english": "The vibe in mountains and forests makes me calm and refreshed.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Consistency",
+"chinese": "我的兴趣基本保持一致并且相当持久。",
+"english": "My hobbies have stayed consistent and quite persistent.",
+"type": "sentence"
+},
+{
+"category": "Hobbies: Singing",
+"chinese": "我小时候常在K歌房唱歌，梦想站上舞台。",
+"english": "As a child I sang at karaoke and dreamed of performing on stage.",
+"type": "sentence"
+},
+{
+"category": "New Hobby",
+"chinese": "我想培养新的爱好，比如攀岩和游泳。",
+"english": "I want to cultivate new hobbies like rock-climbing and swimming.",
+"type": "sentence"
+},
+{
+"category": "New Hobby",
+"chinese": "这些活动能让我放松并塑造更健康的体型。",
+"english": "These activities help me relax and build a healthier physique.",
+"type": "sentence"
+},
+{
+"category": "Routine: Morning",
+"chinese": "早上我起床做早餐，然后工作三个小时。",
+"english": "In the morning I get up, cook breakfast, and work for three hours.",
+"type": "sentence"
+},
+{
+"category": "Routine: Evening",
+"chinese": "晚上我给家人做饭，并和我的猫依偎在沙发上。",
+"english": "In the evening I cook for my family and snuggle with my cat on the sofa.",
+"type": "sentence"
+},
+{
+"category": "Routine: Preference",
+"chinese": "我喜欢早起，因为这能延长我的一天并提升效率。",
+"english": "I prefer waking up early because it lengthens my day and boosts efficiency.",
+"type": "sentence"
+},
+{
+"category": "Routine: Change",
+"chinese": "长期重复同样的日程会让我感到枯燥和疲惫。",
+"english": "Following the same routine long term makes me bored and drained.",
+"type": "sentence"
+},
+{
+"category": "Weekend",
+"chinese": "周末我和丈夫一起打扫公寓。",
+"english": "On weekends I clean the apartment with my husband.",
+"type": "sentence"
+},
+{
+"category": "Weekend",
+"chinese": "他对家务一丝不苟，甚至会吸尘每个角落。",
+"english": "He is meticulous about housework and vacuums every corner.",
+"type": "sentence"
+},
+{
+"category": "Family",
+"chinese": "我家有四口人，包括父母和丈夫。",
+"english": "There are four people in my family, including my parents and my husband.",
+"type": "sentence"
+},
+{
+"category": "Family",
+"chinese": "我和丈夫最亲近，也经常关心父母与社区。",
+"english": "I’m closest to my husband and stay engaged with my parents and community.",
+"type": "sentence"
+},
+{
+"category": "Relatives & Friends",
+"chinese": "亲戚住得很远，所以我们很少见面。",
+"english": "My relatives live far away, so we rarely meet.",
+"type": "sentence"
+},
+{
+"category": "Friends",
+"chinese": "我通常每月见朋友一次。",
+"english": "I usually see my friends once a month.",
+"type": "sentence"
+},
+{
+"category": "Friends",
+"chinese": "我们会去最爱的餐馆、聊天八卦或看最新的电影。",
+"english": "We go to favorite restaurants, catch up on gossip, or watch trendy movies.",
+"type": "sentence"
+},
+{
+"category": "Social Preference",
+"chinese": "我更喜欢小圈子的朋友关系以建立更深的连接。",
+"english": "I prefer a small circle of friends to build deeper bonds.",
+"type": "sentence"
+},
+{
+"category": "Social Energy",
+"chinese": "社交对我来说耗时费力，所以我在陌生人面前较为内向。",
+"english": "Socializing is time- and energy-consuming, so I’m reserved with strangers.",
+"type": "sentence"
+},
+{
+"category": "Food: Preference",
+"chinese": "我有一颗“中餐胃”，更偏爱中国菜。",
+"english": "I have a ‘Chinese stomach’ and prefer Chinese food.",
+"type": "sentence"
+},
+{
+"category": "Food: Home Cooking",
+"chinese": "我常在家做饭，而且我们的厨房很宽敞。",
+"english": "I often cook at home, and our kitchen is spacious.",
+"type": "sentence"
+},
+{
+"category": "Food: Hygiene",
+"chinese": "我更喜欢干净卫生的家常菜。",
+"english": "I prefer homemade dishes because they are clean and hygienic.",
+"type": "sentence"
+},
+{
+"category": "Cuisine",
+"chinese": "我最喜欢川菜，它是中国八大菜系之一。",
+"english": "My favorite cuisine is Sichuanese, one of China’s eight major cuisines.",
+"type": "sentence"
+},
+{
+"category": "Cuisine",
+"chinese": "川菜以辛辣与多样香料的融合而著称。",
+"english": "Sichuan cuisine is known for its spiciness and diverse blend of spices.",
+"type": "sentence"
+},
+{
+"category": "Cooking: Learning",
+"chinese": "我从小就跟妈妈学做传统家常菜。",
+"english": "I learned traditional home cooking from my mother when I was young.",
+"type": "sentence"
+},
+{
+"category": "Cooking: View",
+"chinese": "对我来说，烹饪像是一场有趣的实验。",
+"english": "To me, cooking feels like an interesting experiment.",
+"type": "sentence"
+},
+{
+"category": "Food: Dislike",
+"chinese": "我不喜欢过甜的菜肴。",
+"english": "I dislike dishes with excessive sugar.",
+"type": "sentence"
+},
+{
+"category": "Food: Taste",
+"chinese": "过多的糖会破坏鲜味的平衡。",
+"english": "Too much sugar ruins the balance of umami.",
+"type": "sentence"
+},
+{
+"category": "Shopping",
+"chinese": "我不是常买衣服的人，通常每个季节才买几次。",
+"english": "I’m not a frequent clothes shopper and buy only a few times each season.",
+"type": "sentence"
+},
+{
+"category": "Shopping",
+"chinese": "我偏爱线下购物以便试穿并感受面料。",
+"english": "I prefer in-store shopping so I can try clothes on and feel the fabrics.",
+"type": "sentence"
+},
+{
+"category": "Fashion",
+"chinese": "我关注潮流但更注重个人风格与合身度。",
+"english": "I keep an eye on trends but prioritize fit and personal style.",
+"type": "sentence"
+},
+{
+"category": "Weather",
+"chinese": "我所在的城市有四季分明的气候。",
+"english": "My city has four distinct seasons.",
+"type": "sentence"
+},
+{
+"category": "Weather",
+"chinese": "漫长闷热的夏季湿度很高，冬季寒冷干燥。",
+"english": "Summers are sweltering and humid, while winters are cold and dry.",
+"type": "sentence"
+},
+{
+"category": "Weather & Mood",
+"chinese": "晴天让我更有活力，而阴郁的日子让我昏昏欲睡。",
+"english": "Sunny days energize me, while gloomy days make me drowsy.",
+"type": "sentence"
+},
+{
+"category": "Rainy Day",
+"chinese": "下雨天我喜欢待在室内读书喝茶。",
+"english": "On rainy days I stay indoors with a good book and tea.",
+"type": "sentence"
+},
+{
+"category": "Climate Change",
+"chinese": "近年来极端天气更频繁，这一点很明显。",
+"english": "Extreme weather has become more frequent in recent years, which is obvious.",
+"type": "sentence"
+},
+{
+"category": "Technology: Use",
+"chinese": "我常用手机购物、查资料和娱乐。",
+"english": "I often use my phone for shopping, research, and entertainment.",
+"type": "sentence"
+},
+{
+"category": "Technology: Preference",
+"chinese": "专业场合我用电脑，日常则用手机更方便。",
+"english": "I use a computer for professional tasks and a phone for casual use.",
+"type": "sentence"
+},
+{
+"category": "Social Media",
+"chinese": "我重度使用社交媒体，有时会无意识刷屏。",
+"english": "I am a heavy social-media user and sometimes doom-scroll.",
+"type": "sentence"
+},
+{
+"category": "Favorite App",
+"chinese": "我更偏爱在B站看高质量的长视频。",
+"english": "I prefer watching high-quality long videos on Bilibili.",
+"type": "sentence"
+},
+{
+"category": "Tech Impact",
+"chinese": "科技让生活更便捷，但过度依赖会伤害专注力。",
+"english": "Technology makes life easier, but over-reliance harms attention.",
+"type": "sentence"
+},
+{
+"category": "Travel",
+"chinese": "旅行能让我接触多元文化并开阔眼界。",
+"english": "Travel exposes me to diverse cultures and broadens my perspective.",
+"type": "sentence"
+},
+{
+"category": "Travel: Favorite",
+"chinese": "我在烟台的经历让我着迷，那是座舒适的海滨城市。",
+"english": "My trip to Yantai captivated me; it’s a cozy coastal city.",
+"type": "sentence"
+},
+{
+"category": "Travel: Scenes",
+"chinese": "新鲜的海鲜和黄昏的日落令人难忘。",
+"english": "Fresh seafood and sunsets at dusk were unforgettable.",
+"type": "sentence"
+},
+{
+"category": "Transport",
+"chinese": "我常坐高铁出行以提高效率并避免堵车。",
+"english": "I often take high-speed trains to be efficient and avoid traffic.",
+"type": "sentence"
+},
+{
+"category": "Childhood Memory",
+"chinese": "我三岁时曾因自行车事故严重受伤。",
+"english": "I was badly injured in a bicycle accident at the age of three.",
+"type": "sentence"
+},
+{
+"category": "Remembering",
+"chinese": "我通过写日记、拍照和与亲友交谈来记录重要事情。",
+"english": "I record important things by journaling, taking photos, and talking with loved ones.",
+"type": "sentence"
+},
+{
+"category": "Advertisement",
+"chinese": "成龙代言的霸王洗发水广告让我印象深刻。",
+"english": "Jackie Chan’s Bawang shampoo commercial left a deep impression on me.",
+"type": "sentence"
+},
+{
+"category": "Advertisement",
+"chinese": "有趣且制作精良的广告更能吸引我。",
+"english": "Interesting, well-made ads appeal to me more.",
+"type": "sentence"
+}
+]
