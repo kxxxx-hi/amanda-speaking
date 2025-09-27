@@ -358,5 +358,824 @@
 "chinese": "有趣且制作精良的广告更能吸引我。",
 "english": "Interesting, well-made ads appeal to me more.",
 "type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "我想谈谈我最喜欢的艺术家泰勒·斯威夫特，她的音乐多年一直是我生活的重要部分。",
+"english": "I’d like to talk about my favorite artist, Taylor Swift, whose music has been a major part of my life for many years.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "我热爱她音乐的原因在于其非凡的多样性。",
+"english": "What I love about her music is its incredible versatility.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她刚出道时以乡村歌曲闻名。",
+"english": "When she first emerged, she was known for her country songs.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "优美的旋律和贴近生活的歌词深深吸引了我。",
+"english": "I was captivated by the beautiful melodies and relatable lyrics.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "这些歌曲非常适合跟着一起唱，我很快就成了她的粉丝。",
+"english": "They were so easy to sing along to, and I immediately became a fan.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "这些年来，我见证了她从乡村转向流行，并尝试电子音色的蜕变。",
+"english": "Over the years, I’ve watched her transition from country to pop and experiment with electronic sounds.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "这种艺术进化展现了她的多才多艺和无尽的创造可能。",
+"english": "This artistic evolution shows her versatility and the endless creative possibilities she possesses.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "我追随她的音乐旅程已超过十五年。",
+"english": "I’ve been following her journey for over fifteen years.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "我清楚地记得她在2010年第一次获得格莱美奖。",
+"english": "I remember clearly when she won her first Grammy in 2010.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "那一刻对她和她的粉丝来说意义重大。",
+"english": "It was a huge moment for her and for her fans.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她的音乐在许多时刻成为了我生活的配乐。",
+"english": "Her music has been the soundtrack to my life in many moments.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "上学途中、通勤路上或在家放松时，她的歌曲总在身边。",
+"english": "On my way to school, commuting to work, or relaxing at home, her songs are always there.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她的原创性与创造力令人惊叹。",
+"english": "Her originality and creativity are astonishing.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她自己创作全部歌曲，歌词真诚而私密。",
+"english": "She writes all her own songs, and the lyrics are deeply personal and authentic.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她的音乐像在讲故事，我常能与她的经历产生共鸣。",
+"english": "Her music feels like storytelling, and I relate to many of her experiences.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "当她第一次拿到格莱美时，我欣喜若狂，仿佛自己获奖。",
+"english": "When she won her first Grammy, I was over the moon, as if I had won it myself.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她的坚韧也是我重要的灵感来源。",
+"english": "Her resilience has been a powerful source of inspiration for me.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "经历2016年的网络霸凌后，她展现了巨大的力量。",
+"english": "After facing intense cyberbullying in 2016, she showed immense strength.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她没有被困难定义，而是变得更强大。",
+"english": "She refused to be defined by those difficulties and emerged stronger.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift",
+"chinese": "她直面挑战的能力鼓励我为自己发声并坚持下去。",
+"english": "Her ability to face challenges head-on inspires me to speak up and persevere.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "我想谈谈李娜，这位中国网球明星是第一位获得大满贯单打冠军的亚洲球员。",
+"english": "I want to talk about Li Na, the Chinese tennis star who became the first Asian Grand Slam singles champion.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "她在2011年法网和2014年澳网夺冠。",
+"english": "She won the 2011 French Open and the 2014 Australian Open.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "我最初在深夜集锦里注意到她的干净双手反拍和积极底线打法。",
+"english": "I first noticed her in late-night highlights for her clean two-handed backhand and aggressive baseline play.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "她在场上的专注令人印象深刻。",
+"english": "Her calm focus on court stood out.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "场下她的冷幽默和真诚让人觉得亲切。",
+"english": "Off court, her dry humor and honesty made her feel approachable.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "如果见到她，我会请教如何锻炼心理韧性。",
+"english": "If I met her, I’d ask about building mental toughness.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "我想知道她如何用呼吸和视觉化等微小流程在失误后重置心态。",
+"english": "I’d ask how she used micro-routines like breathing and visualizing targets to reset after mistakes.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "我也想了解她如何在球迷的期待与个人目标之间取得平衡。",
+"english": "I’d also ask how she balanced fans’ expectations with her own goals.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "漫长赛季中的伤病管理同样值得学习。",
+"english": "Managing injuries during long seasons is another lesson I’d learn.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "许多运动员退役后都会挣扎，我好奇她如何重塑自我认同。",
+"english": "Many athletes struggle after retirement, and I’m curious how she reinvented her identity.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "她把纪律与幽默结合，提升了亚洲运动员的标准。",
+"english": "She raised the bar for Asian athletes by combining discipline with humor.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na",
+"chinese": "如果能学到一个习惯，比如发球前的专注提示，我的学习和生活都会更好。",
+"english": "If I could adopt one habit, like a pre-serve focus cue, it would improve my studies and daily life.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "我想描述浙江安吉，这里因无尽的竹海、柔和的丘陵和清澈的溪流而闻名。",
+"english": "I want to describe Anji in Zhejiang, known for endless bamboo forests, soft hills, and clear streams.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "清晨，风穿过竹林，像耳语般轻柔。",
+"english": "In the morning, wind moves through the bamboo like a soft whisper.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "山路旁有古老的寺庙、斑驳的石阶和安静的院落。",
+"english": "Along the mountain paths are ancient temples, weathered stone steps, and quiet courtyards.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "翠竹与钟声让这片土地拥有冥想般的节奏。",
+"english": "Emerald bamboo and temple bells give the landscape a meditative rhythm.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "安吉也以白茶闻名，名为“安吉白茶”。",
+"english": "Anji is also famous for its white tea, called Anji Bai Cha.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "早春时节，人们手工采摘嫩芽并当日加工。",
+"english": "In early spring, locals hand-pick tender shoots and process them the same day.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "这种茶清冽微甜，回味悠长。",
+"english": "The tea tastes clean and slightly sweet, with a long finish.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "从山坡茶舍望去，梯田环抱着高竹，热气从杯中升起。",
+"english": "From a hillside teahouse, terraced fields surround tall bamboo as steam rises from your cup.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "四月我会走一段舒缓的山脊线，入寺静坐片刻，再参加茶品鉴。",
+"english": "In April, I’d take a gentle ridge walk, pause in a temple, and join a tea-tasting session.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "我想和茶农聊可持续种植，以及竹林如何保护水土。",
+"english": "I’d talk with growers about sustainable farming and how bamboo protects soil and water.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "安吉象征着平衡的生活：森林护土，寺庙静心，茶让人相聚。",
+"english": "Anji represents balanced living: forests guard the land, temples quiet the mind, and tea brings people together.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji",
+"chinese": "简单而从容的茶礼让人慢下来并深呼吸。",
+"english": "A simple, unhurried tea ritual helps you slow down and breathe.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "安吉是一个宁静的地方，有很多竹林、缓坡和清溪。",
+"english": "Anji is a calm place with lots of bamboo, gentle hills, and clear streams.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "风穿过竹子时像轻声细语。",
+"english": "When the wind moves through the bamboo, it sounds like a soft whisper.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "沿着小路你会看到旧寺庙、磨平的石阶和安静的院子。",
+"english": "Along the paths you see old temples, worn stone steps, and quiet yards.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "绿色的竹子与钟声让一切变得安宁。",
+"english": "Green bamboo and temple bells make everything feel peaceful.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "安吉也以白茶著称，人们清晨手工采摘嫩叶。",
+"english": "Anji is known for white tea, with young leaves picked by hand in the morning.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "茶的味道清爽微甜，余韵绵长。",
+"english": "The tea tastes clean and lightly sweet with a lasting finish.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "在山顶的小茶馆，你能看到梯田和高高的竹林。",
+"english": "From a hilltop teahouse you can see terraced fields and tall bamboo.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "如果四月去，我会走一条轻松的山脊路并参加茶会。",
+"english": "If I go in April, I’ll walk an easy ridge and join a tea tasting.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "我想了解可持续种植以及竹林如何保护土壤和水源。",
+"english": "I want to learn about sustainable growing and how bamboo protects soil and water.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Simple)",
+"chinese": "在我看来，安吉体现了平衡的生活方式。",
+"english": "To me, Anji shows a balanced way of living.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "我想描述安吉县的灵峰寺，它坐落在绿竹摇曳的群山之间。",
+"english": "I’d like to describe Lingfeng Temple in Anji County, set among green hills and swaying bamboo.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "寺庙宁静而幽深，自然环境成为建筑的背景。",
+"english": "The temple feels peaceful and secluded, with nature as its backdrop.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "传统的木构殿堂、飞檐与对称庭院令人印象深刻。",
+"english": "Traditional wooden halls, upturned eaves, and symmetrical courtyards stand out.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "屋顶勾勒出优雅的轮廓，建筑沿中轴线排布。",
+"english": "The roofs create a graceful silhouette, and the spaces align along a central axis.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "石阶被岁月磨得光滑，香烟袅袅，钟声悠远。",
+"english": "Stone steps are worn smooth, incense drifts, and bell tones linger.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "建筑不张扬，以木石与青瓦展现永恒的素雅。",
+"english": "The buildings are unshowy, using wood, stone, and tile to express timeless simplicity.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "这种风格与自然和谐，让寺庙仿佛从山水中生长出来。",
+"english": "The style is harmonious with nature, as if the temple grows from the landscape.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "我会清晨到访，聆听早课的诵经声。",
+"english": "I would visit early to hear the morning chants.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "然后坐在檐下，看薄雾从竹林间缓缓升起。",
+"english": "Then I’d sit under the eaves and watch the mist rise from the bamboo.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "它的标志性不在于体量，而在于平衡与克制。",
+"english": "Its iconic quality lies not in size but in balance and restraint.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple",
+"chinese": "它展示了建筑如何塑造情绪、引导动线并连接人与场所。",
+"english": "It shows how architecture can shape mood, guide movement, and connect people to place.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Simple)",
+"chinese": "灵峰寺位于浙江湖州安吉，周末有很多人从上海和杭州前来。",
+"english": "Lingfeng Temple is in Anji, Huzhou, Zhejiang, and many people visit from Shanghai and Hangzhou on weekends.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Simple)",
+"chinese": "寺庙安静而隐秘，依山傍竹，环境自然。",
+"english": "The temple feels quiet and hidden, set among hills and bamboo.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Simple)",
+"chinese": "殿堂木结构、飞檐和整齐的院落构成经典格局。",
+"english": "Wooden halls, upturned eaves, and neat courtyards form a classic layout.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Simple)",
+"chinese": "进入时能看到磨损的石阶、闻到香味、听到钟声。",
+"english": "You see worn steps, smell incense, and hear bells when you enter.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Simple)",
+"chinese": "这里的建筑朴素，与自然融为一体。",
+"english": "The architecture is simple and blends with nature.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "我想学习K-pop舞蹈，最主要的原因是它的能量。",
+"english": "I’d like to learn K-pop dancing, mainly for its energy.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "舞台充满活力，音乐快速，动作利落，节拍推动你全力以赴。",
+"english": "The stage feels vibrant, the music is fast, the moves are sharp, and the beat pushes you to give everything.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "这看起来像一种积极的生活态度：出场、努力并享受当下。",
+"english": "It looks like a positive attitude toward life: show up, work hard, and enjoy the moment.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "舞蹈也是一种自我表达，我想用肢体表达情感。",
+"english": "Dance is a form of self-expression, and I want to express feelings through movement.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "热门歌曲的编舞常常在讲故事。",
+"english": "The choreography of hit songs often tells a story.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "手部角度、头部转动和面部表情等细节会改变整套动作的氛围。",
+"english": "Details like hand angles, head turns, and facial expressions change a routine’s feel.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "K-pop舞蹈强度很大，需要协调性、柔韧性和力量。",
+"english": "K-pop dancing is intense and demands coordination, flexibility, and strength.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "学习它是全身性的训练，而且真正有趣。",
+"english": "Learning it is a full-body workout that is genuinely fun.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "我会先看入门教程，然后每周上课打好基础。",
+"english": "I’d start with beginner tutorials, then take a weekly class to build fundamentals.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "我会录制练习，找出膝盖弯曲或手臂无力等问题。",
+"english": "I’d record practice sessions to spot issues like bent knees or lazy arms.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance",
+"chinese": "为增强耐力，我会进行核心训练和拉伸。",
+"english": "To build stamina, I’d cross-train with core work and stretching.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "我想谈谈《花样年华》，我看过一次，还想再看一遍。",
+"english": "I want to talk about In the Mood for Love; I’ve seen it once and want to watch it again.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "故事发生在20世纪60年代的香港。",
+"english": "The story is set in 1960s Hong Kong.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "两位邻居得知各自的配偶出轨，开始交谈并努力保持克制。",
+"english": "Two neighbors learn their spouses are unfaithful, start talking, and try to stay proper.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "剧情平静而缓慢，没有激烈冲突。",
+"english": "The plot is quiet and slow, with no big fights.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "张力来自细小瞬间：目光、停顿和离开的时机。",
+"english": "The tension comes from small moments—the looks, the pauses, and the choice to walk away.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "二刷时，这些细节更有力量。",
+"english": "On a second viewing, these details feel even deeper.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "你会理解他们为何选择沉默，以及每个场景如何累积情感。",
+"english": "You notice why they choose silence and how each scene builds emotion.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "服装也是我重看的原因之一。",
+"english": "The costumes are another reason to rewatch.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "张曼玉的旗袍优雅而色彩浓烈，梁朝伟的西装简洁而利落。",
+"english": "Maggie Cheung’s cheongsams are elegant and bold, while Tony Leung’s suits are sharp and simple.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "服装与房间、走廊和雨中的街道相互呼应。",
+"english": "The clothes echo the rooms, corridors, and rainy streets.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "一件新裙子往往意味着新的一天与细微的心境变化。",
+"english": "A new dress often signals a new day and a subtle shift in mood.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love",
+"chinese": "我会因两点而重看：克制的叙事与引导视线的美丽服装。",
+"english": "I’d rewatch it for two reasons: the controlled narrative and the beautiful, guiding costumes.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (More)",
+"chinese": "她的歌词真实而坦率，让听众感到被理解。",
+"english": "Her lyrics are honest and direct, making listeners feel understood.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (More)",
+"chinese": "她在不同风格之间转换自如而不失自我。",
+"english": "She shifts between styles without losing her identity.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (More)",
+"chinese": "她的每一张专辑都像她人生新篇章的注脚。",
+"english": "Each album feels like a footnote to a new chapter in her life.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (More)",
+"chinese": "她的音乐让我在不同阶段找到勇气和方向。",
+"english": "Her music helps me find courage and direction at different stages.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (More)",
+"chinese": "她用简洁的赛前暗示来稳定注意力。",
+"english": "She used simple pre-point cues to steady her focus.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (More)",
+"chinese": "她的比赛风格干净利落却不失韧性。",
+"english": "Her style is clean and decisive yet resilient.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (More)",
+"chinese": "她展示了如何把失误当作反馈而非失败。",
+"english": "She showed how to treat mistakes as feedback, not failure.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (More)",
+"chinese": "竹林在风中起伏，像呼吸一样有节奏。",
+"english": "The bamboo sways in the wind with a breathing rhythm.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (More)",
+"chinese": "茶香与雾气让清晨变得温柔。",
+"english": "Tea aroma and mist make the morning gentle.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (More)",
+"chinese": "可持续的茶园管理保护了山谷的水脉。",
+"english": "Sustainable tea farming protects the valley’s waterways.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (More)",
+"chinese": "光线沿着屋檐滑落，勾勒出空间的节奏。",
+"english": "Light slides along the eaves and outlines the rhythm of the space.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (More)",
+"chinese": "中轴与院落引导你缓慢行走与停留。",
+"english": "The central axis and courtyards guide you to walk slowly and pause.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (More)",
+"chinese": "简素材料让注意力回到比例与秩序本身。",
+"english": "Simple materials draw attention back to proportion and order.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (More)",
+"chinese": "数拍、卡点与线条清洁是入门要点。",
+"english": "Counting beats, hitting accents, and clean lines are the basics.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (More)",
+"chinese": "镜前练习能快速暴露问题与进步。",
+"english": "Practicing in front of a mirror quickly reveals problems and progress.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (More)",
+"chinese": "固定的周练能把舞蹈变成日常习惯。",
+"english": "A weekly routine can turn dance into a daily habit.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (More)",
+"chinese": "影片用克制的镜头语言讲述情感的分寸。",
+"english": "The film uses restrained imagery to explore emotional boundaries.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (More)",
+"chinese": "雨声与走廊的回音放大了无声的思念。",
+"english": "Rain and corridor echoes amplify the unspoken longing.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (More)",
+"chinese": "每一帧都像一幅构图精巧的照片。",
+"english": "Every frame looks like a carefully composed photograph.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (Resilience)",
+"chinese": "她把挫折转化为创作的燃料。",
+"english": "She turns setbacks into fuel for creation.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (Resilience)",
+"chinese": "她的故事提醒我，真诚与努力可以并行不悖。",
+"english": "Her story reminds me that honesty and hard work can go hand in hand.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (Habits)",
+"chinese": "小习惯在高压时刻提供支点。",
+"english": "Small habits provide an anchor in high-pressure moments.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (Habits)",
+"chinese": "把挫折重述为反馈有助于长期成长。",
+"english": "Reframing setbacks as feedback supports long-term growth.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Mindfulness)",
+"chinese": "在安吉，慢行本身就是目的地。",
+"english": "In Anji, moving slowly becomes the destination.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Mindfulness)",
+"chinese": "一杯热茶足以把注意力带回当下。",
+"english": "A cup of hot tea is enough to bring attention back to the present.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Mood)",
+"chinese": "建筑的节奏可以安抚心绪。",
+"english": "The rhythm of architecture can calm the mind.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Mood)",
+"chinese": "比例与光影能悄然改变人的步伐。",
+"english": "Proportion and light can quietly change your pace.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (Discipline)",
+"chinese": "自律让热爱保持长久。",
+"english": "Discipline keeps passion alive over time.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (Discipline)",
+"chinese": "重复练习把难点变成肌肉记忆。",
+"english": "Repetition turns difficulties into muscle memory.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (Rewatch)",
+"chinese": "二刷让细节彼此对话。",
+"english": "A second viewing lets the details speak to each other.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (Rewatch)",
+"chinese": "克制的叙事需要观众的耐心与参与。",
+"english": "A restrained narrative asks for patience and participation from the viewer.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (Craft)",
+"chinese": "她用个人故事连接了庞大的听众群体。",
+"english": "She connects a vast audience through personal stories.",
+"type": "sentence"
+},
+{
+"category": "Music: Taylor Swift (Craft)",
+"chinese": "她的旋律线条直击人心却不过度炫技。",
+"english": "Her melodic lines hit the heart without unnecessary showmanship.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (Legacy)",
+"chinese": "她证明亚洲选手也能统治世界舞台。",
+"english": "She proved Asian players can dominate the world stage.",
+"type": "sentence"
+},
+{
+"category": "Sports: Li Na (Legacy)",
+"chinese": "幽默与坦诚也能成为竞技精神的一部分。",
+"english": "Humor and candor can be part of competitive spirit.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Culture)",
+"chinese": "手工采茶是一种代代相传的技艺。",
+"english": "Hand-picking tea is a craft passed down through generations.",
+"type": "sentence"
+},
+{
+"category": "Travel: Anji (Culture)",
+"chinese": "茶席把陌生人变成朋友。",
+"english": "A tea table can turn strangers into friends.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Craft)",
+"chinese": "榫卯结构让木作在时间中呼吸。",
+"english": "Mortise-and-tenon joints let the timber breathe over time.",
+"type": "sentence"
+},
+{
+"category": "Architecture: Lingfeng Temple (Craft)",
+"chinese": "对称的庭院建立秩序感与宁静感。",
+"english": "Symmetrical courtyards create a sense of order and calm.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (Progress)",
+"chinese": "把大动作拆小能加快学习曲线。",
+"english": "Breaking big moves into smaller parts speeds up learning.",
+"type": "sentence"
+},
+{
+"category": "Hobby: K-pop Dance (Progress)",
+"chinese": "音乐性与力量感需要同时训练。",
+"english": "Musicality and power need to be trained together.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (Style)",
+"chinese": "服装是角色情绪的外化。",
+"english": "Costume is an external expression of the characters’ emotions.",
+"type": "sentence"
+},
+{
+"category": "Film: In the Mood for Love (Style)",
+"chinese": "色彩和图案为镜头设定了情感温度。",
+"english": "Colors and patterns set the emotional temperature of the frame.",
+"type": "sentence"
 }
+
+
+  
 ]
